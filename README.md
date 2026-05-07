@@ -1,6 +1,6 @@
-# Learning Fields — Reproducibility Artifact
+# A non-abelian discrete Stokes law for $\mathsf S_N$-valued connections on $2$-complexes
 
-Code accompanying the paper *Learning Fields*.
+Code accompanying the paper
 
 All scripts are self-contained: run from this directory and outputs are
 written to `./figs/`. No external data is required; the small cache
